@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Sterlin Sheeba 👋
 
-<!--
-**Sterlinsheeba/Sterlinsheeba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst | SQL • Python • Power BI | Open to Remote Roles**
 
-Here are some ideas to get you started:
+🎯 System Engineer @ Infosys transitioning to Data Analytics with 3+ years experience building data-driven solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+   SQL • Python • Power BI • DAX • Excel • Power Query • ETL • Data Visualization
+
+### 📊 Featured Projects
+👇 Check my pinned repos - PBIX files + DAX code included
+
+### 📫 Let’s Connect
+- 💼 LinkedIn: (https://linkedin.com/in/sterlin-sheeba-r-9494522b6)
+- 🌍 Open to: Remote | Relocation | Dubai | US | UK | Canada
+
+**Currently building:** HR Analytics Dashboard with slicers | ETA: This week
