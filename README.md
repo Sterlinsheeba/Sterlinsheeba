@@ -21,4 +21,4 @@
 | Certificate | Issued By | Date | Verify |
 | --- | --- | --- | --- |
 | SQL (Basic) | HackerRank | 12 Nov 2026 | [View Certificate](https://www.hackerrank.com/certificates/23d8afad5e9b) |
-| Data Visualisation (DPBA) | Anudip Foundation | 3 Nov 2026 | Reg No: 951512 |
+| Data Visualisation (DPBA) | Anudip Foundation | 3 Nov 2026 | [View Certificate](./DPBA_Certificate.pdf) |
