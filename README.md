@@ -22,3 +22,4 @@
 | --- | --- | --- | --- |
 | SQL (Basic) | HackerRank | 12 Nov 2026 | [View Certificate](https://www.hackerrank.com/certificates/23d8afad5e9b) |
 | Data Visualisation (DPBA) | Anudip Foundation | 3 Nov 2026 | [View Certificate](./DPBA_Certificate.pdf) |
+| SQL and Relational Databases 101 | IBM Skills Network | 13 Nov 2026 | [View](https://courses.cognitiveclass.ai/certificates/61d3c9357b764f4abe7a63dd01dead6a) |
